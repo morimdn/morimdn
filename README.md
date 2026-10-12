@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mirmorsal Madani
-### Product Manager · Product Leader · PhD in Software Engineering
+###Product Manager | Strategy, Leadership & AI
 
 **Turning complex software problems into clear product direction and practical delivery.**
 
