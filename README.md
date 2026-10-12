@@ -1,29 +1,28 @@
 <div align="center">
 
-# Mirmorsal Madani
-Product Manager | Strategy, Leadership & AI |PhD of Software Computer Engineering
+<h1>Mirmorsal Madani</h1>
+<p><strong>Product Manager · Product Leadership · FinTech & Enterprise Software</strong><br>
+PhD in Computer Software Engineering</p>
 
-**Turning complex software problems into clear product direction and practical delivery.**
+<p>Turning complex software problems into clear product direction and practical delivery.</p>
 
-[Portfolio](https://morimdn.github.io/mirmorsal-madani-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mirmorsal-madani/) · [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mirmorsal+madani&oq=) · [Email](mailto:mirmorsal.madani1361@gmail.com)
+<p><a href="https://morimdn.github.io/mirmorsal-madani-portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/mirmorsal-madani/">LinkedIn</a> · <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mirmorsal+madani&oq=">Google Scholar</a> · <a href="https://morimdn.github.io/mirmorsal-madani-portfolio/assets/Mirmorsal-Madani-CV.pdf">Download CV</a></p>
 
-Wrocław, Poland · Open to product opportunities across Europe
+<p>Wrocław, Poland · Open to product opportunities across Europe</p>
 
 </div>
 
----
+## Product leadership with hands-on depth
 
-I lead digital products from strategy and discovery to delivery, combining hands-on product management, technical depth and cross-functional team leadership. My experience spans **FinTech, enterprise software and AI-enabled workflows**.
+I lead digital products from strategy and discovery to delivery, connecting **product management, software engineering and cross-functional leadership**. My work spans brokerage technology, enterprise systems and AI-enabled workflows.
 
-Currently **Chief Product Officer at Top Fast Technology**, following hands-on Product Manager work on brokerage technology. I lead Product Owners and Product Designers, coordinate with Engineering and QA, and align stakeholders, roadmaps and delivery priorities.
+Currently **Chief Product Officer at Top Fast Technology**, following hands-on Product Manager work on brokerage products. I lead Product Owners and Product Designers, coordinate with Engineering and QA, and align stakeholders, roadmaps and delivery priorities.
 
-## What I bring
+## How I work
 
-| Product direction | Product delivery | Data & AI |
-| :--- | :--- | :--- |
-| Discovery & requirements engineering | UX collaboration & engineering handoffs | SQL, Python & business intelligence |
-| Roadmaps & backlog prioritization | Cross-functional team coordination | AI agents & structured workflows |
-| Stakeholder alignment | End-to-end B2B product ownership | Research-informed decision-making |
+- **Direction:** discovery, requirements engineering, product strategy and roadmap prioritization.
+- **Delivery:** UX collaboration, engineering handoffs, cross-functional coordination and end-to-end B2B ownership.
+- **Data & AI:** business intelligence, research-informed decisions and AI agents for structured product workflows — with human control over decisions and quality.
 
 ## Selected product work
 
@@ -33,24 +32,22 @@ Currently **Chief Product Officer at Top Fast Technology**, following hands-on P
 - **[Native CRM Mobile App](https://morimdn.github.io/mirmorsal-madani-portfolio/case-studies/mobile-crm.html)** — Hands-on product management for a native Flutter brokerage CRM.
 - **[AI Market Analyst](https://morimdn.github.io/mirmorsal-madani-portfolio/case-studies/ai-market-analyst.html)** — Product leadership for AI-assisted analysis that keeps decisions with the user.
 
-[Explore the full portfolio →](https://morimdn.github.io/mirmorsal-madani-portfolio/#projects)
+[Explore all product case studies →](https://morimdn.github.io/mirmorsal-madani-portfolio/#projects)
 
-## Research foundation
+## Research & technical foundation
 
-PhD in Computer Software Engineering, academic leadership, and published research in text classification and machine learning.
+**PhD in Computer Software Engineering**, academic leadership, and published research in text classification and machine learning.
 
-**Research & applied AI:** privacy-preserving data mining · text mining · imbalanced classification · anomaly and fraud detection · deep learning · NLP · feature engineering.
+Research and applied AI interests include privacy-preserving data mining, text mining, imbalanced classification, anomaly and fraud detection, deep learning, NLP and feature engineering.
 
 Selected publications:
+
 - [Fake-news detection — Security and Privacy (Wiley, 2022)](https://doi.org/10.1002/spy2.264)
 - [KNNGAN — The Journal of Supercomputing (Springer, 2023)](https://doi.org/10.1007/s11227-022-04851-3)
 
-## Technical collaboration
-
-`.NET` · `ABP` · `React` · `Flutter` · `APIs` · `Microservices` · `SQL Server` · `Python` · `Power BI` · `Figma` · `Azure DevOps`
-
-I use AI agents to accelerate requirements, user stories, backlog refinement, prototyping and handoffs, while keeping product decisions and quality under human control.
+**Product & design:** Figma · Azure DevOps · requirements · roadmaps · backlog refinement  
+**Data & engineering collaboration:** SQL Server · Python · Power BI · .NET · ABP · React · Flutter · APIs · microservices
 
 ---
 
-**Let's build useful software products.** [Get in touch →](https://morimdn.github.io/mirmorsal-madani-portfolio/#contact)
+**Let's build useful software products.** [Discuss an opportunity →](https://morimdn.github.io/mirmorsal-madani-portfolio/#contact) · [Email](mailto:mirmorsal.madani1361@gmail.com)
